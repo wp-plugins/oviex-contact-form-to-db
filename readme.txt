@@ -1,5 +1,5 @@
 === Oviex Contact Form to DB ===
-Contributors: umanggoyal
+Contributors: umang.goyal
 Donate link: http://oviex.com/
 Tags: contact form, simple contact form to db, contact form save entries, oviex contact form, email contact form, contact us form, email contact us form, contact form to db
 Requires at least: 3.0.1
